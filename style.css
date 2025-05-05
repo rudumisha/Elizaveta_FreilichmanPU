@@ -178,6 +178,8 @@ ul{
 }
 .background2{
     position: relative;
+     display: flex;
+    justify-content: center;
 }
 
 .background {
